@@ -1,0 +1,11 @@
+ticket_id,created_date,first_response_hours,resolution_hours,priority,category,status
+1,2025-01-01,2,10,High,Login Issue,Closed
+2,2025-01-01,5,24,Medium,Billing,Closed
+3,2025-01-02,1,5,High,Login Issue,Closed
+4,2025-01-02,12,48,Low,Feature Request,Open
+5,2025-01-03,3,8,Medium,Performance,Closed
+6,2025-01-03,20,72,High,Billing,Open
+7,2025-01-04,4,12,Low,General Inquiry,Closed
+8,2025-01-04,6,30,Medium,Login Issue,Closed
+9,2025-01-05,2,6,High,Performance,Closed
+10,2025-01-05,15,60,Medium,Feature Request,Open
