@@ -17,6 +17,14 @@ Sample ticket dataset with:
 - Average resolution time: **27.5 hours**
 - First-response SLA breach rate: **30%**
 
+## Visuals
+
+### Tickets by Category
+![Tickets by Category](images/tickets_by_category.png)
+
+### SLA Breach Rate by Priority
+![SLA Breach Rate by Priority](images/sla_breach_by_priority.png)
+
 
 ## Business Questions & Answers
 
